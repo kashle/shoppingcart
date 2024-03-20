@@ -1,0 +1,19 @@
+.cart {
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .quantity {
+    margin: 0 10px;
+  }
+  
+  .total {
+    margin-top: 20px;
+  }
+  
